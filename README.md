@@ -39,4 +39,17 @@ Recommended Movies:
   Tenet
   Shutter Island
   The Matrix
+  Movie_Recommander_System
+  
+  📁 **Folder Structure**
+│
+├── app.py
+├── movies.pkl
+├── similarity.pkl
+├── movies.csv
+├── requirements.txt
+├── README.md
+└── assets/
+    └── screenshot.png
+ 
 
